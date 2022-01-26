@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:text="30"
             android:textColor="@color/white"
-            android:textSize="60sp"
+            android:textSize="40sp"
             app:layout_constraintStart_toEndOf="@+id/minutes"
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="MissingConstraints" />
